@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cac500e-8650-4a23-a8c0-846714b4c715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_100_days.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9cac500e-8650-4a23-a8c0-846714b4c715" name="Default Changelist" comment="用例 字符串和常用数据结构">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,74 +45,8 @@
       <recent name="D:\Python_WorkSpace\python_100_days" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.work02">
-    <configuration name="example06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_100_days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/example/example06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="example07" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_100_days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/example/example07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="example08" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_100_days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/example/example08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="work01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.work07">
+    <configuration name="work03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +59,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="work04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +81,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="work05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_100_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="work06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_100_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="work07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_100_days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7/home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7/home_work/work07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.work02" />
-        <item itemvalue="Python.work01" />
-        <item itemvalue="Python.example08" />
-        <item itemvalue="Python.example07" />
-        <item itemvalue="Python.example06" />
+        <item itemvalue="Python.work07" />
+        <item itemvalue="Python.work06" />
+        <item itemvalue="Python.work05" />
+        <item itemvalue="Python.work04" />
+        <item itemvalue="Python.work03" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +189,11 @@
       <option name="presentableId" value="Default" />
       <updated>1577327613065</updated>
       <workItem from="1577327614302" duration="16823000" />
-      <workItem from="1578037337940" duration="8647000" />
+      <workItem from="1578037337940" duration="9631000" />
+      <workItem from="1578276482362" duration="82000" />
+      <workItem from="1578276641396" duration="1658000" />
+      <workItem from="1578371743889" duration="2902000" />
+      <workItem from="1579076756271" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="用例 字符串和常用数据结构">
       <created>1578047777986</created>
@@ -203,45 +202,110 @@
       <option name="project" value="LOCAL" />
       <updated>1578047777986</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="练习 字符串和常用数据结构">
+      <created>1578375568373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578375568373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="用例 字符串和常用数据结构" />
-    <option name="LAST_COMMIT_MESSAGE" value="用例 字符串和常用数据结构" />
+    <MESSAGE value="练习 字符串和常用数据结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习 字符串和常用数据结构" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="38" key="CommitChangelistDialog2" timestamp="1578047776455">
+    <state x="465" y="38" key="CommitChangelistDialog2" timestamp="1578375567076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="465" y="38" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578047776455" />
+    <state x="465" y="38" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578375567076" />
     <state x="690" y="248" key="FileChooserDialogImpl" timestamp="1577350924000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="248" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577350924000" />
-    <state width="1330" height="254" key="GridCell.Tab.0.bottom" timestamp="1578048322699">
+    <state width="1330" height="316" key="GridCell.Tab.0.bottom" timestamp="1579078741990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1330" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578048322699" />
-    <state width="1330" height="254" key="GridCell.Tab.0.center" timestamp="1578048322699">
+    <state width="1330" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579078741990" />
+    <state width="1330" height="316" key="GridCell.Tab.0.center" timestamp="1579078741989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1330" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578048322699" />
-    <state width="1330" height="254" key="GridCell.Tab.0.left" timestamp="1578048322699">
+    <state width="1330" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579078741989" />
+    <state width="1330" height="316" key="GridCell.Tab.0.left" timestamp="1579078741989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1330" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578048322699" />
-    <state width="1330" height="254" key="GridCell.Tab.0.right" timestamp="1578048322699">
+    <state width="1330" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579078741989" />
+    <state width="1330" height="316" key="GridCell.Tab.0.right" timestamp="1579078741990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1330" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578048322699" />
+    <state width="1330" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579078741990" />
+    <state width="1330" height="316" key="GridCell.Tab.1.bottom" timestamp="1579078649705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1330" height="316" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579078649705" />
+    <state width="1330" height="316" key="GridCell.Tab.1.center" timestamp="1579078649704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1330" height="316" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579078649704" />
+    <state width="1330" height="316" key="GridCell.Tab.1.left" timestamp="1579078649704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1330" height="316" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579078649704" />
+    <state width="1330" height="316" key="GridCell.Tab.1.right" timestamp="1579078649704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1330" height="316" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579078649704" />
     <state x="338" y="108" key="SettingsEditor" timestamp="1577350946008">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="338" y="108" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577350946008" />
+    <state x="452" y="182" key="Vcs.Push.Dialog.v2" timestamp="1578375570911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="182" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578375570911" />
     <state x="342" y="182" width="1200" height="800" key="dock-window-1" timestamp="1577330888159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -252,11 +316,14 @@
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577330867930" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_100_days$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1578048322694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
+    <SUITE FILE_PATH="coverage/python_100_days$work02.coverage" NAME="work02 Coverage Results" MODIFIED="1578372225461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$example06.coverage" NAME="example06 Coverage Results" MODIFIED="1578041778128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
+    <SUITE FILE_PATH="coverage/python_100_days$work06.coverage" NAME="work06 Coverage Results" MODIFIED="1579078093756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
+    <SUITE FILE_PATH="coverage/python_100_days$work05.coverage" NAME="work05 Coverage Results" MODIFIED="1579077706383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$example01.coverage" NAME="example01 Coverage Results" MODIFIED="1578039509139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
     <SUITE FILE_PATH="coverage/python_100_days$example05.coverage" NAME="example05 Coverage Results" MODIFIED="1578041513711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
-    <SUITE FILE_PATH="coverage/python_100_days$work04.coverage" NAME="work04 Coverage Results" MODIFIED="1577341424129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/home_work" />
+    <SUITE FILE_PATH="coverage/python_100_days$work07.coverage" NAME="work07 Coverage Results" MODIFIED="1579078645996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
+    <SUITE FILE_PATH="coverage/python_100_days$work04.coverage" NAME="work04 Coverage Results" MODIFIED="1579077164770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$work01.coverage" NAME="work01 Coverage Results" MODIFIED="1578047920932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$one.coverage" NAME="one Coverage Results" MODIFIED="1577328050964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/example" />
     <SUITE FILE_PATH="coverage/python_100_days$example02.coverage" NAME="example02 Coverage Results" MODIFIED="1577360249717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5/example" />
@@ -264,8 +331,8 @@
     <SUITE FILE_PATH="coverage/python_100_days$example08.coverage" NAME="example08 Coverage Results" MODIFIED="1578047687778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
     <SUITE FILE_PATH="coverage/python_100_days$example04.coverage" NAME="example04 Coverage Results" MODIFIED="1577361431590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5/example" />
     <SUITE FILE_PATH="coverage/python_100_days$example07.coverage" NAME="example07 Coverage Results" MODIFIED="1578047240016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
-    <SUITE FILE_PATH="coverage/python_100_days$work03.coverage" NAME="work03 Coverage Results" MODIFIED="1577357531875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$example02__1_.coverage" NAME="example02 (1) Coverage Results" MODIFIED="1578040405467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/example" />
+    <SUITE FILE_PATH="coverage/python_100_days$work03.coverage" NAME="work03 Coverage Results" MODIFIED="1578372794019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$work01__1_.coverage" NAME="work01 (1) Coverage Results" MODIFIED="1577331111060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$work02__1_.coverage" NAME="work02 (1) Coverage Results" MODIFIED="1577332154830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/home_work" />
     <SUITE FILE_PATH="coverage/python_100_days$work03__1_.coverage" NAME="work03 (1) Coverage Results" MODIFIED="1577340920720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3/home_work" />
