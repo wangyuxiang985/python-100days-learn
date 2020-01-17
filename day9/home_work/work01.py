@@ -24,7 +24,7 @@ class Fighter(object, metaclass=ABCMeta):
     def hp(self, hp):
         self._hp = hp if hp >= 0 else 0
     @property
-    def is_alive(self):
+    def isalive(self):
         return self._hp > 0
     @abstractmethod
     def attack(self, other):
@@ -71,7 +71,7 @@ class Ultraman(Fighter):
         if self._mp >= 20:
             self._mp -= 20
             for temp in others:
-                if temp.is_alive:
+                if temp.isalive:
                     temp.hp -= randint(10, 15)
             return True
         else:
@@ -99,18 +99,18 @@ class Monster(Fighter):
         return '~~~%s小怪兽~~~\n' % self._name + \
                '生命值: %d\n' % self._hp
 
-def is_any_alive(Monsters):
+def is_anyalive(Monsters):
     """判断是否还有小怪兽活着"""
     for Monster in Monsters:
-        return True if Monster.is_alive else False
+        return True if Monster.isalive else False
 
-def select_alive_one(Monsters):
+def selectalive_one(Monsters):
     """选中一个活着的小怪兽"""
     Monsters_len = len(Monsters)
     while True:
         index = randrange(Monsters_len)
         Monster = Monsters[index]
-        if Monster.is_alive:
+        if Monster.isalive:
             return Monster
 
 def display_info(ultraman, monsters):
@@ -127,9 +127,9 @@ def main():
     m3 = Monster('猪八戒', 750)
     ms = [m1, m2, m3]
     fight_round = 1
-    while u.is_alive and is_any_alive(ms):
+    while u.isalive and is_anyalive(ms):
         print('========第%02d回合========' % fight_round)
-        m = select_alive_one(ms)  # 选中一只小怪兽
+        m = selectalive_one(ms)  # 选中一只小怪兽
         skill = randint(1, 10)   # 通过随机数选择使用哪种技能
         if skill <= 6:  # 60%的概率使用普通攻击
             print('%s使用普通攻击打了%s.' % (u.name, m.name))
@@ -146,13 +146,13 @@ def main():
             else:
                 print('%s使用普通攻击打了%s.' % (u.name, m.name))
                 print('%s的魔法值恢复了%d点.' % (u.name, u.resume()))
-        if m.is_alive > 0:  # 如果选中的小怪兽没有死就回击奥特曼
+        if m.isalive > 0:  # 如果选中的小怪兽没有死就回击奥特曼
             print('%s回击了%s.' % (m.name, u.name))
             m.attack(u)
         display_info(u, ms)  # 每个回合结束后显示奥特曼和小怪兽的信息
         fight_round += 1
     print('\n========战斗结束!========\n')
-    if u.is_alive > 0:
+    if u.isalive > 0:
         print('%s奥特曼胜利!' % u.name)
     else:
         print('小怪兽胜利!')
