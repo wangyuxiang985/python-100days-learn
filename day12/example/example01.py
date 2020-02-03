@@ -18,4 +18,6 @@ finditer(pattern, string, flags=0)	    查找字符串所有与正则表达式�
 purge()	                                清除隐式编译的正则表达式的缓存
 re.I / re.IGNORECASE	                忽略大小写匹配标记
 re.M / re.MULTILINE	                    多行匹配标记
+
+如果一个正则表达式需要重复的使用，那么先通过compile函数编译正则表达式并创建出正则表达式对象
 """
